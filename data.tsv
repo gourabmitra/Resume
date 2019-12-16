@@ -1,0 +1,8 @@
+letter	frequency	skills
+Java	.96	JDBC,JAVA EE6,JSP,JAVA SE
+ML	.80	Tensorflow,Numpy,Pandas,NLTK
+DataViz	.90	Bokeh,D3js,PyDot
+C++	.90	C++ OOD
+Databases	.80	MySQL,Postgres
+Web Dev	.70	HTML,CSS,Javascript
+AWS	.70	EC2,Lambda,S3,API Gateway
